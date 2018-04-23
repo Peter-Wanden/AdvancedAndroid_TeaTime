@@ -75,5 +75,4 @@ public class TeaMenuAdapter extends ArrayAdapter<Tea> {
         holder.image.setImageResource(currentTea.getImageResourceId());
         return convertView;
     }
-
 }
